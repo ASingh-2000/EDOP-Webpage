@@ -729,7 +729,7 @@ input, select, textarea {
 
 			ul.alt li {
 				border-top: solid 1px #ffffff;
-				padding: 0.5em 0;
+				padding: 1em 0;
 			}
 
 				ul.alt li:first-child {
