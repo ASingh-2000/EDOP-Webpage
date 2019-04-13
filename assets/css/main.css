@@ -891,7 +891,7 @@ input, select, textarea {
 			}
 
 			ul.icons li a {
-				border-radius: 100%;
+				border-radius: 50%;
 				box-shadow: inset 0 0 0 1px #ffffff;
 				float: left; /************************************************ */
 				height: 2.25rem;
